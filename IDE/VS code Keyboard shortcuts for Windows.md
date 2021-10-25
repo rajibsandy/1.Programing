@@ -1,2 +1,2 @@
-| ![images/vs code shortcuts.png](images/vs code shortcuts.png) |
+| ![images/kubernetes-storage.png](images/kubernetes-storage.png) |
 | --------------------------------------------------------------- |
