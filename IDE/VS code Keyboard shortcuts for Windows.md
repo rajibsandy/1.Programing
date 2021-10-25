@@ -1,2 +1,2 @@
-| ![images/vs code shortcuts.png](images/vs code shortcuts.png) |
+| ![images/vs-code.png](images/vs-code.png) |
 | --------------------------------------------------------------- |
